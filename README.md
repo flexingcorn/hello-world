@@ -1,2 +1,5 @@
 # hello-world
-repository sample
+
+Hello!
+
+I like learning about Front-End development.
